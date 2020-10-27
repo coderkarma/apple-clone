@@ -1,0 +1,16 @@
+.covidLink {
+	display: flex;
+	justify-content: center;
+	background-color: #06c;
+	height: 45px;
+	align-items: center;
+}
+
+.covidLink__link > a {
+	color: white;
+	text-decoration: none;
+}
+
+.covidLink__link > a:hover {
+	text-decoration: underline;
+}
