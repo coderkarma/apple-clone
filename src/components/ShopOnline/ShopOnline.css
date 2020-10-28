@@ -5,3 +5,16 @@
 	height: 45px;
 }
 
+.shopOnline__link > h5 {
+	font-size: 14px;
+	font-weight: normal;
+}
+
+.shopOnline__link > h5 > a {
+	color: blue;
+	text-decoration: none;
+}
+
+.shopOnline__link > h5 > a:hover {
+	text-decoration: underline;
+}

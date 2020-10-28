@@ -9,8 +9,15 @@
 .covidLink__link > a {
 	color: white;
 	text-decoration: none;
+
+	font-size: 14px;
+	font-weight: normal;
 }
 
+.covidLink__link::after {
+	content: ' >';
+	color: white;
+}
 .covidLink__link > a:hover {
 	text-decoration: underline;
 }

@@ -2,6 +2,11 @@
 	margin: 0;
 	padding: 0;
 }
+
+body {
+	font-family: 'SF Pro Text', 'SF Pro Icons', 'Helvetica Neue', Helvetica,
+		Arial, sans-serif;
+}
 code {
 	font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
 		monospace;

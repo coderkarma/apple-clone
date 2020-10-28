@@ -5,10 +5,10 @@ const ShopOnline = () => {
 	return (
 		<div className='shopOnline'>
 			<div className='shopOnline__link'>
-				<a href='/'>
-					<span>Shop online</span> and get free, no‑contact delivery,
-					Specialist help, and more.
-				</a>
+				<h5>
+					<a href='https://www.apple.com/shop'>Shop online</a> and get
+					free, no‑contact delivery, Specialist help, and more.
+				</h5>
 			</div>
 		</div>
 	);
