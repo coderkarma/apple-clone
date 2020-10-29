@@ -7,6 +7,11 @@ const Iphone12 = () => {
 		<div className='iphone12pro'>
 			<div className='iphone12pro__logo'>
 				<img src={logo} alt='iphone12-pro' />
+				<h2>It's a leap year</h2>
+				<div className='iphone12pro__links'>
+					<a href='/'>Learn More</a>
+					<a href='/'>Shop</a>
+				</div>
 			</div>
 			<div className='iphone12pro__heroImage'></div>
 			<div className='iphone12pro__max'>

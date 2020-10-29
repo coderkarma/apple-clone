@@ -4,11 +4,39 @@
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
+	padding-top: 3rem;
 }
 
 .iphone12pro__logo > img {
 	width: 300px;
 }
+
+.iphone12pro__logo > h2 {
+	color: white;
+	text-align: center;
+	margin-top: 1rem;
+	font-weight: normal;
+}
+.iphone12pro__links {
+	text-align: center;
+	margin: 1rem;
+}
+.iphone12pro__links > a {
+	color: #2997ff;
+	text-decoration: none;
+	padding-left: 1rem;
+	font-size: 20px;
+	font-weight: normal;
+}
+.iphone12pro__links > a:hover {
+	text-decoration: underline;
+}
+.iphone12pro__links > a::after {
+	content:'  > ';
+	text-align: center;
+	text-decoration: none;
+}
+
 .iphone12pro__heroImage {
 	background-image: url('../../images/iphone-12-pro/iphone-12-pro-hero_large_2x.jpg');
 	background-position: center;
