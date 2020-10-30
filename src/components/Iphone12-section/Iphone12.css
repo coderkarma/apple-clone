@@ -32,7 +32,7 @@
 	text-decoration: underline;
 }
 .iphone12pro__links > a::after {
-	content:'  > ';
+	content: '  > ';
 	text-align: center;
 	text-decoration: none;
 }
@@ -48,4 +48,6 @@
 
 .iphone12pro__max > h1 {
 	color: white;
+	font-size: 24px;
+	font-weight: 400;
 }
