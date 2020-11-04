@@ -16,6 +16,11 @@ const Iphone12 = () => {
 			<div className='iphone12pro__heroImage'></div>
 			<div className='iphone12pro__max'>
 				<h1>Iphone 12 pro Max</h1>
+				<h4>Pre-order starting at </h4>
+				<h4>5.00 a.m. PST on 11.6 </h4>
+			</div>
+			<div className='iphone12pro__maxavailable'>
+				<h4>Available 11.13</h4>
 			</div>
 		</div>
 	);
