@@ -10,10 +10,12 @@ function App() {
 	return (
 		<div className='App'>
 			<Navbar />
-			<CovidLink />
-			<ShopOnline />
-			<Iphone12pro />
-			<Iphone12 />
+			<div className='wrapper'>
+				<CovidLink />
+				<ShopOnline />
+				<Iphone12pro />
+				<Iphone12 />
+			</div>
 		</div>
 	);
 }

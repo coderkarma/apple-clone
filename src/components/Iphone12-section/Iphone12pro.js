@@ -13,8 +13,8 @@ const Iphone12pro = () => {
 					<a href='/'>Shop</a>
 				</div>
 			</div>
-			<div className='iphone12pro__heroImage'></div>
-			<div className='iphone12pro__max'>
+			 <div className='iphone12pro__heroImage'></div>
+			<div className='iphone12pro__max text-center'>
 				<h1>Iphone 12 pro Max</h1>
 				<h4>Pre-order starting at </h4>
 				<h4>5.00 a.m. PST on 11.6 </h4>
